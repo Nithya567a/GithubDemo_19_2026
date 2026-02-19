@@ -1,0 +1,10 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testscript.Books"/>
+      <class name="testscript.FashionModules"/>
+      <class name="testscript.ElectronicModules"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
